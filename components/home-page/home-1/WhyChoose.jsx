@@ -18,7 +18,7 @@ const accordionItems = [
     icon: "/images/icon/icon_109.svg",
     title: "Contact us",
     content:
-      "info@smagency.info",
+      "Telegram: @oksana_FlirtyAd",
   },
 ];
 
