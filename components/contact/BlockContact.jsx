@@ -5,13 +5,9 @@ const BlockContact = () => {
     {
       icon: "/images/icon/icon_148.svg",
       title: "Contact Info",
-      content: "Email",
-      link: "mailto:info@smagency.info",
       delay: "200",
-      content1: "Skype",
-      link1: "skype:live:.cid.4e388b8cb28e8140",
       content2: "Telegram",
-      link2: "https://telegram.me/oksana_saint",
+      link2: "https://telegram.me/oksana_FlirtyAd",
     },
     {
       icon: "/images/icon/icon_145.svg",

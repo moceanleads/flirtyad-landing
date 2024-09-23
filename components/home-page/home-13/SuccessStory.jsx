@@ -13,13 +13,7 @@ const SuccessStory = () => {
                   Contact Us
                 </p>
                 <h4 className="text-white fw-normal m0">
-                  Email: <a href={"mailto:info@smagency.info"}>info@smagency.info</a>
-                </h4>
-                <h4 className="text-white fw-normal m0">
-                  Telegram: <a href={"https://telegram.me/oksana_saint"}>@oksana_saint</a>
-                </h4>
-                <h4 className="text-white fw-normal m0">
-                  Skype: <a href={"skype:live:.cid.4e388b8cb28e8140"}>live:.cid.4e388b8cb28e8140</a>
+                  Telegram: <a href={"https://telegram.me/oksana_FlirtyAd"}>@oksana_FlirtyAd</a>
                 </h4>
               </div>
               <div className="col-xl-6 col-lg-5 col-md-6 m-auto order-lg-first">

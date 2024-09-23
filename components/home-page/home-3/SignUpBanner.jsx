@@ -31,13 +31,7 @@ const SignUpBanner = () => {
               <h2 className="main-title fw-500 text-white m0">Contact Us</h2>
             </div>
             <p className="fs-20 text-white mb-55 lg-mb-30">
-              Email: <a href="mailto:info@smagency.info">info@smagency.info</a>
-            </p>
-            <p className="fs-20 text-white mb-55 lg-mb-30">
-              Telegram: <a href={"https://telegram.me/oksana_saint"}>@oksana_saint</a>
-            </p>
-            <p className="fs-20 text-white mb-55 lg-mb-30">
-            Skype: <a href="skype:live:.cid.4e388b8cb28e8140">live:.cid.4e388b8cb28e8140</a>
+              Telegram: <a href={"https://telegram.me/oksana_FlirtyAd"}>@oksana_FlirtyAd</a>
             </p>
             <Link href="/signup" className="btn-twentyFive fw-500 tran3s">
               Sign up
